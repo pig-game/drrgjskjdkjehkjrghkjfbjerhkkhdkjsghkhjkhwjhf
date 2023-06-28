@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+body {
+   font-family:'Shadows Into Light';
+   background-color: #002299;
+   color:#FFFFFF;
+ }
+h1 {
+  font-size: 100px;
+}
+img.large {
+   width:100%;
+}
+img.medium {
+  width:50%;
+    float:left;
+  }
+ article.ar1 {
+   background-color:#000000;
+   color:yellow;
+a.hl1 {
+  color:yellow;
+  text-decoration:underline;
+}
+a.hl1:hover {
+    text-decoration:none;
+   }
+section.bgblue {
+   background-color:blue;
+a {
+   color:yellow;
+   background-color:blue;
+}
+a:hover {
+  color:blue;
+  background-color:yellow;
+}
