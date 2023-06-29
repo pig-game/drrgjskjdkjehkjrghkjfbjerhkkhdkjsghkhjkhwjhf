@@ -26,11 +26,11 @@ a.hl1:hover {
    }
 section.bgblue {
    background-color:blue;
-a {
+a.next-button {
    color:yellow;
    background-color:blue;
 }
-a:hover {
+a.next-button:hover {
   color:blue;
   background-color:yellow;
 }
